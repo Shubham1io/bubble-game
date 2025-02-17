@@ -1,6 +1,6 @@
 #  Bubble Game  
 
-An interactive bubble-popping game built using **JavaScript, HTML, and CSS**, where players must click the correct number before time runs out. The game challenges players' **speed and accuracy** with an additional rule: **if a player takes more than 2 seconds to respond, they don’t earn points.**
+An interactive bubble-popping game built using **JavaScript, HTML, and CSS**, where players must click the correct number before time runs out. The game challenges players' **speed and accuracy** with an additional rule: **if a player takes more than 4 seconds to respond, they don’t earn points.**
 
 ##  Live Demo  
 🔗 [Play the Bubble Game]( https://shubham1io.github.io/bubble-game/)
